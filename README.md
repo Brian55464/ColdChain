@@ -1,5 +1,5 @@
 # 品牌敘事與沉浸式行銷體驗網頁
-** Immersive Brand Storytelling & Digital Marketing Web Experience **
+**Immersive Brand Storytelling & Digital Marketing Web Experience**
 
 [點此前往網站](https://Brian55464/ColdChain)
 
