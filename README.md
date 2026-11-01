@@ -1,7 +1,7 @@
 # 品牌敘事與沉浸式行銷體驗網頁
 **Immersive Brand Storytelling & Digital Marketing Web Experience**
 
-[點此前往網站]([https://Brian.github.io/ColdChain](https://brian55464.github.io/ColdChain/))
+[點此前往網站](https://brian55464.github.io/ColdChain/)
 
 ## 專案總覽
 在資訊爆炸的數位時代，單向的生硬推銷已難以打動消費者。專案以「數位內容行銷」與「品牌敘事」為核心，打造出一個具備高度沉浸感的互動式行銷網頁。透過細膩的 UI/UX 美學思維與流暢的視覺動線設計，將產業特色與品牌理念轉化為引人入勝的故事篇章，精準傳遞品牌溫度並深刻建立消費者的情感共鳴。
